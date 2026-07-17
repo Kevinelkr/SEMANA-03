@@ -30,12 +30,11 @@
 
  
 .photo {
-    border: 1px solid green;
     width: 350px;
-
-    background-image: url(images/image-product-desktop.jpg);
+    background-image: url("./images/image-product-desktop.jpg");
     background-size: cover;
 }
+
 
 .content {
     /*border: 3px solid blue;*/
